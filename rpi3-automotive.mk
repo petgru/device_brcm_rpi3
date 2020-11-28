@@ -1,4 +1,4 @@
-USE_OEM_TV_APP := true
+#USE_OEM_TV_APP := true
 $(call inherit-product, device/generic/car/common/car.mk)
 
 PRODUCT_NAME := rpi3-automotive
